@@ -5,6 +5,9 @@
 ### Codewars:
 ![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)
 
+### Связаться со мной:
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/garik_sukhanov)
+
 <!--
 **SukhanovIgorG/SukhanovIgorG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
