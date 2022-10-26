@@ -5,7 +5,8 @@
 <h3>my stack</h3>
 * front
   - JavaScript
-  - [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://t.me/garik_sukhanov)
+  - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(https://t.me/garik_sukhanov)
+  - ![](https://img.shields.io/badge/front-HTML-yellow)
   - HTML
   - CSS
   - React.js
