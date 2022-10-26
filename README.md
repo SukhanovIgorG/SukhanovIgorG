@@ -1,6 +1,26 @@
 <h1 align="center">Hi there, I'm <a href="https://instagram.com/garik_sukhanov/" target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer </h3>
+<h2 align="center">Frontend developer </h2>
+
+<h3>my stack</h3>
+* front
+  - JavaScript
+  - HTML
+  - CSS
+    1. Grid
+    2. Flex
+  - React.js
+  
+* back
+  - node.js
+  - express.js
+  - mongo.db
+  
+* other
+  - nginx
+  - pm2
+  - ssl
+  - git
 
 ### Codewars:
 ![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)
