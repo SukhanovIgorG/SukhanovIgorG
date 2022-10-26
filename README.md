@@ -5,10 +5,8 @@
 <h3>my stack</h3>
 * front
   - JavaScript
-  - HTML
+  - HTML https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
   - CSS
-    1. Grid
-    2. Flex
   - React.js
   
 * back
