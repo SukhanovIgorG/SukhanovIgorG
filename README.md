@@ -26,7 +26,7 @@
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
 ### Codewars:
-![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)
+[![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)](https://www.codewars.com/users/SukhanovGarik)
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/garik_sukhanov)
