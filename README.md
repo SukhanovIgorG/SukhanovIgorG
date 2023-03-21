@@ -28,6 +28,9 @@
 ### Codewars:
 [![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)](https://www.codewars.com/)
 
+### My stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhanovIgorG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/garik_sukhanov)
 
