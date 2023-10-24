@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://instagram.com/garik_sukhanov/" target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Frontend developer </h2>
+<h2 align="center">Fullstack developer </h2>
 
 ## SKILLS
  
