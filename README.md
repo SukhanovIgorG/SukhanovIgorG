@@ -32,7 +32,8 @@
 [![codewars](https://www.codewars.com/users/SukhanovGarik/badges/small)](https://www.codewars.com/)
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhanovIgorG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhanovIgorG&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SukhanovIgorG)](https://github.com/ryo-ma/github-profile-trophy)
 
