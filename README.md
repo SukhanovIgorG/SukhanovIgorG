@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhanovIgorG&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=SukhanovIgorG)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SukhanovIgorG&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/garik_sukhanov)
